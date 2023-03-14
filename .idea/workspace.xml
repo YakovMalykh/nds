@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27f89f72-2769-4ff4-b2dd-0a8c7cef435b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/DataFilling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/ExtractorPOJOs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Logics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/pojos/CalcSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/pojos/Criterias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/pojos/Join.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/pojos/Nodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/pojos/Parameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/pojos/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/pojos/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tmp_tos_vsa_nd_nds_r1_2.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tmp_tos_vsa_nd_nds_r3_2.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/vsa_nd_nds_r1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/vsa_nd_nds_r3.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2N194kkCG0LLM25322H9883EDkP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Яков/apsolutions/nds/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Яков\apsolutions\nds\src" />
+      <recent name="C:\Users\Яков\apsolutions\nds\src\main\java\ru\nds" />
+      <recent name="C:\Users\Яков\apsolutions\nds\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Яков\apsolutions\nds" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="nds" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.Main" />
+      <module name="nds" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\Яков\Desktop\Учеба\техзадания\test_source\rule.json C:\Users\Яков\Desktop\Учеба\техзадания\test_source" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27f89f72-2769-4ff4-b2dd-0a8c7cef435b" name="Changes" comment="" />
+      <created>1678820533791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678820533791</updated>
+      <workItem from="1678820535221" duration="1775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
