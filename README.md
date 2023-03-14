@@ -2,4 +2,5 @@
 проверить выполнение программы можно из среды разработки, передав в качестве агрументов путь к файлу rule.json 
 и путь к папке, где будет создан json файл с резултатом выполнения
 
-![image](https://user-images.githubusercontent.com/98388659/225118185-210da251-449b-4f48-9838-0ddeb60b6d37.png)
+![image](https://user-images.githubusercontent.com/98388659/225118776-492c5f1f-2f00-4efc-bfd0-53b133a5989d.png)
+
