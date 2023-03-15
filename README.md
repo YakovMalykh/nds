@@ -6,7 +6,7 @@
 
 Я собрал проект на Maven, т.к. на старте с Gradle возникли сложности (как в последствии оказалось они были связаны версией Java), и т.к Maven для меня привычнее, я продолжил работу с ней.
 
-я не собрал запускаемый файл jar, т.к. так и не смог разрешить ошибку ....Exception in thread "main" java.lang.IllegalAccessError: class org.apache.spark.storage.StorageUtils$ (in unnamed module @0x273e7444) cannot access class sun.nio.ch.DirectBuffer (in module java.base) because module java.base does not export sun.nio.ch to unnamed module @0x273e7444
+я не собрал запускаемый файл jar, т.к. не смог разрешить ошибку ....Exception in thread "main" java.lang.IllegalAccessError: class org.apache.spark.storage.StorageUtils$ (in unnamed module @0x273e7444) cannot access class sun.nio.ch.DirectBuffer (in module java.base) because module java.base does not export sun.nio.ch to unnamed module @0x273e7444
  ..... По этой причине не создал образ Docker...
  
  У меня есть понимание, что для сборки jar в данном случае нужно использовать плагины maven, но пока я не решил задачу по их настройке
